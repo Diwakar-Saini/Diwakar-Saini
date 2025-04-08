@@ -58,8 +58,7 @@ In this project, the Pacman agent finds paths through his maze world, both to re
 ### CDRT LAB, IIT BHU | Research Intern under Associate Prof. Shyam Kamal (May - July 2024)
 - Developed and implemented Discrete Control Barrier Functions (DCBFs) for dynamic obstacle avoidance on Q-bots.
 - Conducted real-world testing and simulations to validate safety-critical controls with dynamic obstacle avoidance.
-- Authored a research paper on the Dynamic Obstacle Avoidance Algorithm (DOAA), currently under review.
-- Implemented color segmentation in MATLAB with 2D-LiDAR for multi-agent Q-BOTs to maintain a fixed-distance leader-following protocol.
+
 
 
 
